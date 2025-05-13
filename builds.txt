@@ -1,0 +1,6 @@
+Kodi-Fi_V1.0
+Kodi-Fi
+https://flash993.github.io/kodi-fi-repo/plugin.program.kodifi.zip
+icon.png
+fanart.jpg
+https://flash993.github.io/kodi-fi-repo/
