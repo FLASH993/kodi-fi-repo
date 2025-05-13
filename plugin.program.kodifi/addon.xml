@@ -1,0 +1,10 @@
+<addon id="plugin.program.kodifi" name="Kodi-Fi Installer" version="1.0.0" provider-name="FLASH993">
+    <requires>
+        <import addon="xbmc.python" version="2.1.0"/>
+    </requires>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Installs the Kodi-Fi_V1.0 Build via OpenWizard</summary>
+        <description lang="en">A clean Kodi build with custom widgets and add-ons, built for performance and ease of use.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
