@@ -1,9 +1,0 @@
-Welcome to Kodi-Fi_V1.0 — a sleek, pre-configured Kodi build by FLASH993!
-
-✔ Arctic Horizon 2 skin
-✔ Custom widgets and menus
-✔ Trakt & Real-Debrid ready
-✔ Includes The Crew, Seren, and more
-✔ Maintenance enabled via OpenWizard
-
-Enjoy smooth streaming and a beautiful UI. Visit GitHub for updates.
