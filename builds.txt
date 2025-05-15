@@ -1,1 +1,1 @@
-Kodi-Fi Build|1.0|21.2|https://drive.google.com/uc?export=download&id=1ShG7Va44iadT7Ettl0fMyQ0mYb1F4Ile|https://flash993.github.io/kodi-fi-repo/fanart.jpg|https://flash993.github.io/kodi-fi-repo/icon.png|Clean and fast Kodi build with Arctic Horizon 2 skin.|Arctic Horizon 2
+Kodi-Fi Build|1.0|21.2|https://drive.google.com/uc?export=download&id=1qL70bdKXPmhyCAqRIwxe9b3Q6WqFtmML|https://flash993.github.io/kodi-fi-repo/fanart.jpg|https://flash993.github.io/kodi-fi-repo/icon.png|Clean and fast Kodi build with Arctic Horizon 2 skin.|Arctic Horizon 2
