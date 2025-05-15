@@ -1,0 +1,243 @@
+[submodule "addons/inputstream.adaptive"]
+    path = addons/inputstream.adaptive
+    url = https://github.com/username/inputstream.adaptive.git
+
+[submodule "addons/metadata.common.omdbapi.com"]
+    path = addons/metadata.common.omdbapi.com
+    url = https://github.com/username/metadata.common.omdbapi.com.git
+
+[submodule "addons/metadata.common.themoviedb.org"]
+    path = addons/metadata.common.themoviedb.org
+    url = https://github.com/username/metadata.common.themoviedb.org.git
+
+[submodule "addons/metadata.generic.albums"]
+    path = addons/metadata.generic.albums
+    url = https://github.com/username/metadata.generic.albums.git
+
+[submodule "addons/metadata.themoviedb.org.python"]
+    path = addons/metadata.themoviedb.org.python
+    url = https://github.com/username/metadata.themoviedb.org.python.git
+
+[submodule "addons/metadata.tvshows.themoviedb.org.python"]
+    path = addons/metadata.tvshows.themoviedb.org.python
+    url = https://github.com/username/metadata.tvshows.themoviedb.org.python.git
+
+[submodule "addons/metadata.universal"]
+    path = addons/metadata.universal
+    url = https://github.com/username/metadata.universal.git
+
+[submodule "addons/plugin.program.autocompletion"]
+    path = addons/plugin.program.autocompletion
+    url = https://github.com/username/plugin.program.autocompletion.git
+
+[submodule "addons/plugin.program.autowidget"]
+    path = addons/plugin.program.autowidget
+    url = https://github.com/username/plugin.program.autowidget.git
+
+[submodule "addons/plugin.video.fenlight"]
+    path = addons/plugin.video.fenlight
+    url = https://github.com/username/plugin.video.fenlight.git
+
+[submodule "addons/plugin.video.thecrew"]
+    path = addons/plugin.video.thecrew
+    url = https://github.com/username/plugin.video.thecrew.git
+
+[submodule "addons/plugin.video.themoviedb.helper"]
+    path = addons/plugin.video.themoviedb.helper
+    url = https://github.com/username/plugin.video.themoviedb.helper.git
+
+[submodule "addons/plugin.video.youtube"]
+    path = addons/plugin.video.youtube
+    url = https://github.com/username/plugin.video.youtube.git
+
+[submodule "addons/repository.autowidget"]
+    path = addons/repository.autowidget
+    url = https://github.com/username/repository.autowidget.git
+
+[submodule "addons/repository.jurialmunkey"]
+    path = addons/repository.jurialmunkey
+    url = https://github.com/username/repository.jurialmunkey.git
+
+[submodule "addons/repository.thecrew"]
+    path = addons/repository.thecrew
+    url = https://github.com/username/repository.thecrew.git
+
+[submodule "addons/resource.font.robotocjksc"]
+    path = addons/resource.font.robotocjksc
+    url = https://github.com/username/resource.font.robotocjksc.git
+
+[submodule "addons/resource.images.studios.coloured"]
+    path = addons/resource.images.studios.coloured
+    url = https://github.com/username/resource.images.studios.coloured.git
+
+[submodule "addons/resource.images.weatherfanart.multi"]
+    path = addons/resource.images.weatherfanart.multi
+    url = https://github.com/username/resource.images.weatherfanart.multi.git
+
+[submodule "addons/resource.images.weathericons.white"]
+    path = addons/resource.images.weathericons.white
+    url = https://github.com/username/resource.images.weathericons.white.git
+
+[submodule "addons/script.audio.profiles"]
+    path = addons/script.audio.profiles
+    url = https://github.com/username/script.audio.profiles.git
+
+[submodule "addons/script.embuary.helper"]
+    path = addons/script.embuary.helper
+    url = https://github.com/username/script.embuary.helper.git
+
+[submodule "addons/script.embuary.info"]
+    path = addons/script.embuary.info
+    url = https://github.com/username/script.embuary.info.git
+
+[submodule "addons/script.globalsearch"]
+    path = addons/script.globalsearch
+    url = https://github.com/username/script.globalsearch.git
+
+[submodule "addons/script.image.resource.select"]
+    path = addons/script.image.resource.select
+    url = https://github.com/username/script.image.resource.select.git
+
+[submodule "addons/script.module.addon.signals"]
+    path = addons/script.module.addon.signals
+    url = https://github.com/username/script.module.addon.signals.git
+
+[submodule "addons/script.module.arrow"]
+    path = addons/script.module.arrow
+    url = https://github.com/username/script.module.arrow.git
+
+[submodule "addons/script.module.autocompletion"]
+    path = addons/script.module.autocompletion
+    url = https://github.com/username/script.module.autocompletion.git
+
+[submodule "addons/script.module.beautifulsoup4"]
+    path = addons/script.module.beautifulsoup4
+    url = https://github.com/username/script.module.beautifulsoup4.git
+
+[submodule "addons/script.module.certifi"]
+    path = addons/script.module.certifi
+    url = https://github.com/username/script.module.certifi.git
+
+[submodule "addons/script.module.chardet"]
+    path = addons/script.module.chardet
+    url = https://github.com/username/script.module.chardet.git
+
+[submodule "addons/script.module.dateutil"]
+    path = addons/script.module.dateutil
+    url = https://github.com/username/script.module.dateutil.git
+
+[submodule "addons/script.module.future"]
+    path = addons/script.module.future
+    url = https://github.com/username/script.module.future.git
+
+[submodule "addons/script.module.idna"]
+    path = addons/script.module.idna
+    url = https://github.com/username/script.module.idna.git
+
+[submodule "addons/script.module.infotagger"]
+    path = addons/script.module.infotagger
+    url = https://github.com/username/script.module.infotagger.git
+
+[submodule "addons/script.module.inputstreamhelper"]
+    path = addons/script.module.inputstreamhelper
+    url = https://github.com/username/script.module.inputstreamhelper.git
+
+[submodule "addons/script.module.jurialmunkey"]
+    path = addons/script.module.jurialmunkey
+    url = https://github.com/username/script.module.jurialmunkey.git
+
+[submodule "addons/script.module.kodi-six"]
+    path = addons/script.module.kodi-six
+    url = https://github.com/username/script.module.kodi-six.git
+
+[submodule "addons/script.module.requests"]
+    path = addons/script.module.requests
+    url = https://github.com/username/script.module.requests.git
+
+[submodule "addons/script.module.resolveurl"]
+    path = addons/script.module.resolveurl
+    url = https://github.com/username/script.module.resolveurl.git
+
+[submodule "addons/script.module.routing"]
+    path = addons/script.module.routing
+    url = https://github.com/username/script.module.routing.git
+
+[submodule "addons/script.module.simplecache"]
+    path = addons/script.module.simplecache
+    url = https://github.com/username/script.module.simplecache.git
+
+[submodule "addons/script.module.simpleeval"]
+    path = addons/script.module.simpleeval
+    url = https://github.com/username/script.module.simpleeval.git
+
+[submodule "addons/script.module.simplejson"]
+    path = addons/script.module.simplejson
+    url = https://github.com/username/script.module.simplejson.git
+
+[submodule "addons/script.module.six"]
+    path = addons/script.module.six
+    url = https://github.com/username/script.module.six.git
+
+[submodule "addons/script.module.soupsieve"]
+    path = addons/script.module.soupsieve
+    url = https://github.com/username/script.module.soupsieve.git
+
+[submodule "addons/script.module.thecrew"]
+    path = addons/script.module.thecrew
+    url = https://github.com/username/script.module.thecrew.git
+
+[submodule "addons/script.module.trakt"]
+    path = addons/script.module.trakt
+    url = https://github.com/username/script.module.trakt.git
+
+[submodule "addons/script.module.typing_extensions"]
+    path = addons/script.module.typing_extensions
+    url = https://github.com/username/script.module.typing_extensions.git
+
+[submodule "addons/script.module.unidecode"]
+    path = addons/script.module.unidecode
+    url = https://github.com/username/script.module.unidecode.git
+
+[submodule "addons/script.module.urllib3"]
+    path = addons/script.module.urllib3
+    url = https://github.com/username/script.module.urllib3.git
+
+[submodule "addons/script.skinshortcuts"]
+    path = addons/script.skinshortcuts
+    url = https://github.com/username/script.skinshortcuts.git
+
+[submodule "addons/script.skinvariables"]
+    path = addons/script.skinvariables
+    url = https://github.com/username/script.skinvariables.git
+
+[submodule "addons/script.texturemaker"]
+    path = addons/script.texturemaker
+    url = https://github.com/username/script.texturemaker.git
+
+[submodule "addons/script.thecrew.artwork"]
+    path = addons/script.thecrew.artwork
+    url = https://github.com/username/script.thecrew.artwork.git
+
+[submodule "addons/script.trakt"]
+    path = addons/script.trakt
+    url = https://github.com/username/script.trakt.git
+
+[submodule "addons/service.subtitles.opensubtitles"]
+    path = addons/service.subtitles.opensubtitles
+    url = https://github.com/username/service.subtitles.opensubtitles.git
+
+[submodule "addons/service.upnext"]
+    path = addons/service.upnext
+    url = https://github.com/username/service.upnext.git
+
+[submodule "addons/skin.arctic.fuse.2"]
+    path = addons/skin.arctic.fuse.2
+    url = https://github.com/username/skin.arctic.fuse.2.git
+
+[submodule "addons/skin.arctic.horizon.2"]
+    path = addons/skin.arctic.horizon.2
+    url = https://github.com/username/skin.arctic.horizon.2.git
+
+[submodule "addons/weather.noaa"]
+    path = addons/weather.noaa
+    url = https://github.com/username/weather.noaa.git
