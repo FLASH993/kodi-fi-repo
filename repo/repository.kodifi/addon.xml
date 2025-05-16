@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="repository.kodifi" name="Kodi-Fi Repo" version="1.0.0" provider-name="FLASH993">
     <extension point="xbmc.addon.repository" name="Kodi-Fi Repo">
-        <info compressed="false">https://flash993.github.io/kodi-fi-repo/repo/repository.kodifi/addons.xml</info>
-        <checksum>https://flash993.github.io/kodi-fi-repo/repo/repository.kodifi/addons.xml.md5</checksum>
-        <datadir zip="true">https://flash993.github.io/kodi-fi-repo/repo/repository.kodifi/zips/</datadir>
+        <dir> 
+            <info compressed="false">https://raw.githubusercontent.com/flash993/repository.kodifi/main/repo/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/flash993/kodi-fi-repo/main/repository.kodifi/main/repo/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/flash993/kodi-fi-repo/main/repository.kodifi/main/repo/zips/</datadir>
+        </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary></summary>
+        <summary>Kodi-Fi</summary>
         <description>A clean, fast, Real-Debrid-ready Kodi build with Arctic Horizon 2 and premium add-ons.</description>
         <disclaimer />
         <platform>all</platform>
