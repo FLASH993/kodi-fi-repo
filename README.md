@@ -21,7 +21,8 @@ Welcome to **Kodi-Fi** — a fast, clean, Real-Debrid-ready Kodi build powered b
 ### 📦 Option 1: Add Kodi-Fi Repo
 
 1. In Kodi, go to **Settings > File Manager > Add Source**
-2. Add this URL:https://flash993.github.io/kodi-fi-repo3. Go to **Add-ons > Install from ZIP file**
+2. Add this URL:https://flash993.github.io/kodi-fi-repo
+3. Go to **Add-ons > Install from ZIP file**
 4. Select `repository.kodifi-1.0.0.zip`
 5. Install from repository → **Kodi-Fi Repo**
 6. Install `Kodi-Fi Installer` and run it
