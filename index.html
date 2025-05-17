@@ -1,2 +1,105 @@
 <!DOCTYPE html>
-<a href="repository.kodifi-1.0.0.zip">repository.kodifi-1.0.0.zip</a>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Kodi-Fi Repository</title>
+  <style>
+    body {
+      background-color: #121212;
+      color: #e0e0e0;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 40px;
+      background-image: url('repo/repository.kodifi/fanart.jpg');
+      background-size: cover;
+      background-position: center;
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+    }
+
+    /* Overlay to darken fanart slightly */
+    body::before {
+      content: "";
+      position: fixed;
+      top: 0;
+      left: 0;
+      height: 100%;
+      width: 100%;
+      background: rgba(0, 0, 0, 0.7);
+      z-index: -1;
+    }
+
+    h1 {
+      font-size: 2.5em;
+      margin-bottom: 0.2em;
+      color: #00bcd4;
+    }
+
+    h2 {
+      color: #ffffff;
+    }
+
+    img.icon {
+      width: 200px;
+      margin: 20px 0;
+      border-radius: 12px;
+      box-shadow: 0 0 20px rgba(0, 188, 212, 0.5);
+    }
+
+    p {
+      font-size: 1.1em;
+      margin-bottom: 2em;
+      max-width: 600px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    a.download-link {
+      display: inline-block;
+      margin: 10px;
+      padding: 12px 24px;
+      background-color: #00bcd4;
+      color: #121212;
+      text-decoration: none;
+      font-weight: bold;
+      border-radius: 6px;
+      transition: background-color 0.3s ease;
+    }
+
+    a.download-link:hover {
+      background-color: #26c6da;
+    }
+
+    .instructions {
+      background-color: #1e1e1e;
+      padding: 20px;
+      border-radius: 8px;
+      text-align: left;
+      display: inline-block;
+      margin-top: 30px;
+      font-size: 0.95em;
+    }
+  </style>
+</head>
+<body>
+  <h1>Kodi-Fi Repository</h1>
+  <img class="icon" src="repo/repository.kodifi/icon.png" alt="Kodi-Fi Icon">
+  <p>A fast, clean, Real-Debrid-ready Kodi build using Arctic Horizon 2 and premium add-ons.</p>
+
+  <a class="download-link" href="repository.kodifi-1.0.0.zip">📦 Download Repository ZIP</a>
+  <a class="download-link" href="plugin.program.kodifi.installer-1.0.0.zip">⚙️ Kodi-Fi Build Installer</a>
+
+  <div class="instructions">
+    <h2>📥 How to Install</h2>
+    <ol>
+      <li>In Kodi, go to <strong>Settings > File Manager > Add Source</strong></li>
+      <li>Add this URL: <code>https://flash993.github.io/kodi-fi-repo</code></li>
+      <li>Go to <strong>Add-ons > Install from ZIP file</strong></li>
+      <li>Select <strong>repository.kodifi-1.0.0.zip</strong></li>
+      <li>Install from repository → <strong>Kodi-Fi Repo</strong></li>
+      <li>Install the <strong>Kodi-Fi Installer</strong> (via OpenWizard)</li>
+      <li>Let the installer set up everything automatically!</li>
+    </ol>
+  </div>
+</body>
+</html>
