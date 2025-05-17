@@ -1,3 +1,6 @@
-<addon id="plugin.program.kodifi.installer" version="1.0.0" name="Kodi-Fi Installer">
-    <info compressed="true">https://drive.google.com/uc?export=download&id=1Qoj7wc9lMqJAvNstUl_k6uIS9AkSYIhM</info>
-</addon>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+  <addon id="plugin.program.kodifi.installer" version="1.0.0" name="Kodi-Fi Installer">
+    <info compressed="true">https://drive.google.com/uc?export=download&id=1Qo7jwc91MqJAvNstUL_k6uIS9AkSYtMk</info>
+  </addon>
+</addons>
