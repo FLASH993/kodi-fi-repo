@@ -1,1 +1,13 @@
-placeholder
+<addon id="repository.kodifi" name="Kodi-Fi Repository" version="1.0.0" provider-name="FLASH993">
+    <extension point="xbmc.addon.repository" name="Kodi-Fi Repository">
+        <dir>https://flash993.github.io/kodi-fi-repo/repo/</dir>
+        <info compressed="false">https://flash993.github.io/kodi-fi-repo/repo/addons.xml</info>
+        <checksum>https://flash993.github.io/kodi-fi-repo/repo/addons.xml.md5</checksum>
+        <datadir>https://flash993.github.io/kodi-fi-repo/repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi-Fi Add-on Repository</summary>
+        <description>Repository for the Kodi-Fi Installer and builds.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
