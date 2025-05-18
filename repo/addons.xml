@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addons>
+<addon id="repository.kodifi" name="Kodi-Fi Repository" version="1.0.0" provider-name="FLASH993">
+    <extension point="xbmc.addon.repository" name="Kodi-Fi Repository">
+        <dir>https://flash993.github.io/kodi-fi-repo/repo/</dir>
+        <info compressed="false">https://flash993.github.io/kodi-fi-repo/repo/addons.xml</info>
+        <checksum>https://flash993.github.io/kodi-fi-repo/repo/addons.xml.md5</checksum>
+        <datadir>https://flash993.github.io/kodi-fi-repo/repo/</datadir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi-Fi Add-on Repository</summary>
+        <description>Repository for the Kodi-Fi Installer and builds.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+<addon id="plugin.program.kodifi.installer" name="Kodi-Fi Build Installer" version="1.0.0" provider-name="FLASH993">
+    <requires>
+        <import addon="xbmc.python" version="2.26.0"/>
+    </requires>
+    <extension point="xbmc.python.program" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Launches OpenWizard and installs Kodi-Fi build</summary>
+        <description>Minimal installer that launches OpenWizard to auto-install the Kodi-Fi build.</description>
+        <platform>all</platform>
+    </extension>
+</addon>
+</addons>
